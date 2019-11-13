@@ -1,4 +1,4 @@
-# Script to add YouTube Ads DNS to Pi-hole blacklist
+# Script to add YouTube Ads DNS to Pi-hole blacklist ARCHLinux Edition
 
 # If you used my script before. 
 - Please wipe your blacklist by ``` sudo rm /etc/pihole/black* ``` or use the command ```sudo pihole -f ```
