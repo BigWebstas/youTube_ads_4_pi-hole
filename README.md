@@ -15,6 +15,7 @@ it will be more effective if you add it the crontab </br>
 Steps: </br></br>
 1- Download the script from github using this command : </br>
 ```
+git clone https://github.com/BigWebstas/youTube_ads_4_pi-hole.git	
 ```
 
 ```
